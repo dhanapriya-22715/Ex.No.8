@@ -51,7 +51,6 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 # Original Image Description
 
 The reference image shows a beautiful spring landscape with the following features:
-
 * A winding river flowing through a green meadow
 * A large pink cherry blossom tree on the left side
 * A row of white cherry blossom trees on the right side
@@ -59,10 +58,8 @@ The reference image shows a beautiful spring landscape with the following featur
 * Floating flower petals in the air
 * Bright blue sky with white clouds
 * Sunny daylight with soft reflections on water
-* Dreamlike digital art style with vibrant colors
-  
+* Dreamlike digital art style with vibrant colors 
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/ee532d6a-a847-4956-8084-15764f84c3df" />
-
 
 # Step 1: Image Analysis
 
@@ -89,18 +86,12 @@ The reference image shows a beautiful spring landscape with the following featur
 **Refined Prompt:**
 
  “A beautiful spring landscape with a winding river running through a lush green field. On the left bank is a vibrant pink cherry blossom tree, and along the right bank is a row of white cherry blossom trees. The ground is covered in blooming pink, white, and yellow wildflowers. Soft flower petals float gently through a bright blue sky with scattered white clouds. Sunny daylight, calm reflections in the water, detailed digital art, dreamlike and serene atmosphere.”
-
-
-
 # Step 4: Final Enhanced Prompt
 
 **Final Prompt Used for Generation:**
 
  “A highly detailed digital painting of a peaceful spring landscape featuring a winding reflective river flowing through a vibrant green meadow. A large pink cherry blossom tree stands on the left side while rows of white cherry blossom trees line the right riverbank. The ground is densely covered with colorful wildflowers in shades of pink, yellow, and white. Flower petals drift softly in the air beneath a bright blue sky with fluffy white clouds. Warm sunlight illuminates the entire scene with soft reflections on the water. Dreamlike, serene atmosphere, ultra-detailed, vibrant colors, cinematic composition.”
 <img width="1536" height="1024" alt="ChatGPT Image May 26, 2026, 09_04_10 PM" src="https://github.com/user-attachments/assets/4666c122-b91b-473d-828a-c29f25e2152f" />
-
-
-
 # Generated Image Observations
 
 ## Similarities
@@ -145,19 +136,12 @@ The reference image shows a beautiful spring landscape with the following featur
 
 ---
 # IMAGE 2 :
-# Experiment: Recreating an Existing Image Using Text-to-Image Generation
-
-## Aim
-
-To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The objective is to analyze the important visual elements of an image and generate a similar image using refined prompts in AI image-generation tools.
-
 
 # Original Image Description
 
 The reference image shows a fantasy landscape with the following features:
 
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/c0f7aae9-581a-4b15-be98-f9ad16e0e1bb" />
-
 
 * Two graceful white swans swimming together on a calm reflective lake
 * Large blooming pink water lilies floating on the water
@@ -187,13 +171,10 @@ The reference image shows a fantasy landscape with the following features:
 **Basic Prompt:**
 “Two swans swimming on a lake with flowers and a castle in the background.”
 
-
-
 # Step 3: Refined Prompt
 
 **Refined Prompt:**
 “Two graceful white swans swimming close together on a peaceful reflective lake filled with blooming pink water lilies and green lily pads. In the background stands a giant medieval castle with tall towers rising through misty trees. The sky has soft pastel sunset colors with dreamy lighting. Detailed fantasy digital art with a calm magical atmosphere.”
-
 
 # Step 4: Final Enhanced Prompt
 
@@ -222,7 +203,6 @@ The reference image shows a fantasy landscape with the following features:
 * Reflections appear slightly brighter
 * Swan feather textures vary slightly from original image
 
-
 # Adjustments Made During Refinement
 
 | Adjustment                              | Purpose                        |
@@ -233,8 +213,6 @@ The reference image shows a fantasy landscape with the following features:
 | Mentioned “soft pastel dawn/dusk tones” | Match sky atmosphere           |
 | Added “cinematic lighting”              | Enhance fantasy appearance     |
 | Included “soft fog effects”             | Improve mystical mood          |
-
-
 
 # Comparison Report
 
