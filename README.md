@@ -156,6 +156,9 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 
 The reference image shows a fantasy landscape with the following features:
 
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/c0f7aae9-581a-4b15-be98-f9ad16e0e1bb" />
+
+
 * Two graceful white swans swimming together on a calm reflective lake
 * Large blooming pink water lilies floating on the water
 * Green lily pads spread across the lake surface
